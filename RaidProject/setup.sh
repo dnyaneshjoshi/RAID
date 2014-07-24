@@ -1,0 +1,14 @@
+mkdir Pendrives
+cd Pendrives
+mkdir Pendrive1
+mkdir Pendrive2
+mkdir Pendrive3
+mkdir Pendrive4
+mkdir Pendrive5
+mkdir Pendrive6
+mkdir Pendrive7
+mkdir Pendrive8
+mkdir Pendrive9
+mkdir Pendrive10
+mkdir Pendrive11
+mkdir Pendrive12

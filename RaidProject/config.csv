@@ -1,0 +1,8 @@
+0,RAID0DRIVE,home/dj/Desktop/Untitled Folder 2/final/RaidProject/Pendrives/Pendrive9,home/dj/Desktop/Untitled Folder 2/final/RaidProject/Pendrives/Pendrive10
+1,RAID1DRIVE,home/dj/Desktop/Untitled Folder 2/final/RaidProject/Pendrives/Pendrive11,home/dj/Desktop/Untitled Folder 2/final/RaidProject/Pendrives/Pendrive12
+2,RAID10DRIVE,RAID1CONFIGURATION_1_INSIDE_RAID10DRIVE,RAID1CONFIGURATION_2_INSIDE_RAID10DRIVE
+1,RAID1CONFIGURATION_1_INSIDE_RAID10DRIVE,home/dj/Desktop/Untitled Folder 2/final/RaidProject/Pendrives/Pendrive5,home/dj/Desktop/Untitled Folder 2/final/RaidProject/Pendrives/Pendrive6
+1,RAID1CONFIGURATION_2_INSIDE_RAID10DRIVE,home/dj/Desktop/Untitled Folder 2/final/RaidProject/Pendrives/Pendrive7,home/dj/Desktop/Untitled Folder 2/final/RaidProject/Pendrives/Pendrive8
+3,RAID01DRIVE,RAID0CONFIGURATION_1_INSIDE_RAID01DRIVE,RAID0CONFIGURATION_2_INSIDE_RAID01DRIVE
+0,RAID0CONFIGURATION_1_INSIDE_RAID01DRIVE,home/dj/Desktop/Untitled Folder 2/final/RaidProject/Pendrives/Pendrive1,home/dj/Desktop/Untitled Folder 2/final/RaidProject/Pendrives/Pendrive2
+0,RAID0CONFIGURATION_2_INSIDE_RAID01DRIVE,home/dj/Desktop/Untitled Folder 2/final/RaidProject/Pendrives/Pendrive3,home/dj/Desktop/Untitled Folder 2/final/RaidProject/Pendrives/Pendrive4
